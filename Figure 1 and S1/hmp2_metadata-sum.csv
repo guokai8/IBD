@@ -1,0 +1,247 @@
+Participant ID,External ID,data_type,biopsy_location,diagnosis,Group
+C3034,CSMDRVXZ,host_transcriptomics,Ascending (right-sided) colon,UC,Colon
+H4004,HSM5FZAM,host_transcriptomics,Ascending (right-sided) colon,CD,Colon
+H4004,HSM7H3WQ,host_transcriptomics,Ascending (right-sided) colon,CD,Colon
+H4017,HSM5FZAU,host_transcriptomics,Ascending (right-sided) colon,CD,Colon
+H4018,HSM6S4FO,host_transcriptomics,Ascending (right-sided) colon,nonIBD,Colon
+H4039,HSM9JTBY,host_transcriptomics,Ascending (right-sided) colon,CD,Colon
+M2026,MSM5LWL2,host_transcriptomics,Ascending (right-sided) colon,UC,Colon
+M2064,MSMAKNET,host_transcriptomics,Ascending (right-sided) colon,UC,Colon
+C3021,CSM5FZ36,host_transcriptomics,Descending (left-sided) colon,CD,Colon
+C3029,CSMDRVXN,host_transcriptomics,Descending (left-sided) colon,UC,Colon
+E5013,ESM5GEY9,host_transcriptomics,Descending (left-sided) colon,CD,Colon
+H4015,HSM5FZB1,host_transcriptomics,Descending (left-sided) colon,CD,Colon
+H4023,HSM6S4G3,host_transcriptomics,Descending (left-sided) colon,nonIBD,Colon
+H4027,HSM6S4GH,host_transcriptomics,Descending (left-sided) colon,UC,Colon
+H4035,HSM7H3WX,host_transcriptomics,Descending (left-sided) colon,UC,Colon
+H4042,HSM9JTC7,host_transcriptomics,Descending (left-sided) colon,UC,Colon
+M2008,MSM5LWKE,host_transcriptomics,Descending (left-sided) colon,CD,Colon
+C3002,CSM5FZ1G,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3002,CSM5FZ1H,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3003,CSM5FZ1L,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3004,CSM5FZ1O,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3005,CSM5FZ1S,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3006,CSM5FZ1W,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3006,CSM5FZ1V,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3008,CSM5FZ23,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3010,CSM5FZ29,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3011,CSM5FZ2C,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3012,CSM5FZ2F,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3013,CSM5FZ2I,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3016,CSM5FZ2Q,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3017,CSM5FZ2T,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3027,CSMDRVXH,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3030,CSMDRVXQ,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3031,CSMDRVXT,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3032,CSMDTZ4X,host_transcriptomics,Sigmoid Colon,UC,Colon
+C3037,CSMDRVY7,host_transcriptomics,Sigmoid Colon,UC,Colon
+H4001,HSM5FZAH,host_transcriptomics,Sigmoid Colon,CD,Colon
+H4032,HSM7H3WO,host_transcriptomics,Sigmoid Colon,CD,Colon
+M2025,MSM719MJ,host_transcriptomics,Sigmoid Colon,CD,Colon
+C3029,CSMDRVXL,host_transcriptomics,Transverse colon,UC,Colon
+E5004,ESM5GEYI,host_transcriptomics,Transverse colon,UC,Colon
+H4016,HSM5FZAW,host_transcriptomics,Transverse colon,nonIBD,Colon
+H4019,HSM6S4FR,host_transcriptomics,Transverse colon,UC,Colon
+H4019,HSM6S4GP,host_transcriptomics,Transverse colon,UC,Colon
+H4022,HSM6S4FZ,host_transcriptomics,Transverse colon,nonIBD,Colon
+H4024,HSM6S4G5,host_transcriptomics,Transverse colon,nonIBD,Colon
+H4028,HSM6S4GK,host_transcriptomics,Transverse colon,CD,Colon
+H4031,HSM7H3WK,host_transcriptomics,Transverse colon,CD,Colon
+H4043,HSM9UBMO,host_transcriptomics,Transverse colon,CD,Colon
+H4045,HSM9UBMT,host_transcriptomics,Transverse colon,nonIBD,Colon
+M2008,MSM5CFCW,host_transcriptomics,Transverse colon,CD,Colon
+M2064,MSM719MD,host_transcriptomics,Transverse colon,UC,Colon
+P6016,PSM6XC15,host_transcriptomics,Transverse colon,CD,Colon
+C3002,CSM5FZ1F,host_transcriptomics,Ileum,CD,Ileum
+C3003,CSM5FZ1J,host_transcriptomics,Ileum,UC,Ileum
+C3004,CSM5FZ1M,host_transcriptomics,Ileum,UC,Ileum
+C3005,CSM5FZ1Q,host_transcriptomics,Ileum,UC,Ileum
+C3006,CSM5FZ1T,host_transcriptomics,Ileum,UC,Ileum
+C3008,CSM5FZ22,host_transcriptomics,Ileum,CD,Ileum
+C3010,CSM5FZ27,host_transcriptomics,Ileum,CD,Ileum
+C3011,CSM5FZ2A,host_transcriptomics,Ileum,UC,Ileum
+C3012,CSM5FZ2D,host_transcriptomics,Ileum,CD,Ileum
+C3013,CSM5FZ2G,host_transcriptomics,Ileum,UC,Ileum
+C3015,CSM5FZ2L,host_transcriptomics,Ileum,UC,Ileum
+C3016,CSM5FZ2O,host_transcriptomics,Ileum,CD,Ileum
+C3017,CSM5FZ2R,host_transcriptomics,Ileum,CD,Ileum
+C3021,CSM5FZ34,host_transcriptomics,Ileum,CD,Ileum
+C3022,CSM5FZ38,host_transcriptomics,Ileum,nonIBD,Ileum
+C3023,CSM5FZ3B,host_transcriptomics,Ileum,CD,Ileum
+C3027,CSMDRVXF,host_transcriptomics,Ileum,CD,Ileum
+C3028,CSMDRVXI,host_transcriptomics,Ileum,CD,Ileum
+C3029,CSMDRVXK,host_transcriptomics,Ileum,UC,Ileum
+C3030,CSMDRVXO,host_transcriptomics,Ileum,CD,Ileum
+C3031,CSMDRVXS,host_transcriptomics,Ileum,CD,Ileum
+C3032,CSMDRVXX,host_transcriptomics,Ileum,UC,Ileum
+C3034,CSMDRVXY,host_transcriptomics,Ileum,UC,Ileum
+C3035,CSMDRVY2,host_transcriptomics,Ileum,CD,Ileum
+C3037,CSMDRVY5,host_transcriptomics,Ileum,UC,Ileum
+E5004,ESM5GEYK,host_transcriptomics,Ileum,UC,Ileum
+E5009,ESM5GEYB,host_transcriptomics,Ileum,CD,Ileum
+E5013,ESM5GEY8,host_transcriptomics,Ileum,CD,Ileum
+H4004,HSM7H3WR,host_transcriptomics,Ileum,CD,Ileum
+H4006,HSM5FZAQ,host_transcriptomics,Ileum,CD,Ileum
+H4007,HSM5FZBF,host_transcriptomics,Ileum,CD,Ileum
+H4007,HSM6S4GB,host_transcriptomics,Ileum,CD,Ileum
+H4008,HSM5FZBI,host_transcriptomics,Ileum,nonIBD,Ileum
+H4008,HSM6S4GM,host_transcriptomics,Ileum,nonIBD,Ileum
+H4009,HSM5FZBE,host_transcriptomics,Ileum,nonIBD,Ileum
+H4010,HSM5FZBC,host_transcriptomics,Ileum,UC,Ileum
+H4013,HSM5FZB4,host_transcriptomics,Ileum,nonIBD,Ileum
+H4014,HSM5FZB3,host_transcriptomics,Ileum,CD,Ileum
+H4015,HSM5FZAY,host_transcriptomics,Ileum,CD,Ileum
+H4016,HSM5FZAX,host_transcriptomics,Ileum,nonIBD,Ileum
+H4017,HSM5FZAT,host_transcriptomics,Ileum,CD,Ileum
+H4018,HSM6S4FN,host_transcriptomics,Ileum,nonIBD,Ileum
+H4019,HSM6S4FQ,host_transcriptomics,Ileum,UC,Ileum
+H4019,HSM6S4GO,host_transcriptomics,Ileum,UC,Ileum
+H4020,HSM6S4FT,host_transcriptomics,Ileum,CD,Ileum
+H4022,HSM6S4FY,host_transcriptomics,Ileum,nonIBD,Ileum
+H4023,HSM6S4G2,host_transcriptomics,Ileum,nonIBD,Ileum
+H4024,HSM6S4G6,host_transcriptomics,Ileum,nonIBD,Ileum
+H4027,HSM6S4GG,host_transcriptomics,Ileum,UC,Ileum
+H4028,HSM6S4GJ,host_transcriptomics,Ileum,CD,Ileum
+H4030,HSM7H3WJ,host_transcriptomics,Ileum,CD,Ileum
+H4031,HSM7H3WM,host_transcriptomics,Ileum,CD,Ileum
+H4032,HSM7H3WN,host_transcriptomics,Ileum,CD,Ileum
+H4035,HSM7H3WW,host_transcriptomics,Ileum,UC,Ileum
+H4038,HSM9JBV,host_transcriptomics,Ileum,CD,Ileum
+H4039,HSM9JTBZ,host_transcriptomics,Ileum,CD,Ileum
+H4040,HSM9JTC1,host_transcriptomics,Ileum,UC,Ileum
+H4043,HSM9UBMN,host_transcriptomics,Ileum,CD,Ileum
+H4044,HSM9UBMR,host_transcriptomics,Ileum,UC,Ileum
+H4045,HSM9UBMS,host_transcriptomics,Ileum,nonIBD,Ileum
+M2008,MSM5CFCV,host_transcriptomics,Ileum,CD,Ileum
+M2014,MSM5CFD6,host_transcriptomics,Ileum,CD,Ileum
+M2021,MSM5LWKQ,host_transcriptomics,Ileum,CD,Ileum
+M2025,MSM5LWL3,host_transcriptomics,Ileum,CD,Ileum
+M2026,MSM5LWL5,host_transcriptomics,Ileum,UC,Ileum
+M2027,MSM5LWL6,host_transcriptomics,Ileum,CD,Ileum
+M2028,MSM5LWJ3,host_transcriptomics,Ileum,CD,Ileum
+M2028,MSM719N4,host_transcriptomics,Ileum,CD,Ileum
+M2034,MSM5LWJG,host_transcriptomics,Ileum,CD,Ileum
+M2039,MSM5LWJN,host_transcriptomics,Ileum,nonIBD,Ileum
+M2041,MSM5LWJT,host_transcriptomics,Ileum,nonIBD,Ileum
+M2042,MSM5LWJV,host_transcriptomics,Ileum,nonIBD,Ileum
+M2047,MSM719M5,host_transcriptomics,Ileum,nonIBD,Ileum
+M2060,MSM5LWKG,host_transcriptomics,Ileum,nonIBD,Ileum
+M2061,MSM719M9,host_transcriptomics,Ileum,nonIBD,Ileum
+M2068,MSM719MT,host_transcriptomics,Ileum,CD,Ileum
+M2069,MSM719N1,host_transcriptomics,Ileum,UC,Ileum
+M2072,MSM719MU,host_transcriptomics,Ileum,nonIBD,Ileum
+M2084,MSM719NP,host_transcriptomics,Ileum,nonIBD,Ileum
+P6005,PSM6XBZD,host_transcriptomics,Ileum,CD,Ileum
+P6009,PSM6XBZJ,host_transcriptomics,Ileum,CD,Ileum
+P6012,PSM6XBZP,host_transcriptomics,Ileum,UC,Ileum
+P6013,PSM6XBZR,host_transcriptomics,Ileum,UC,Ileum
+P6014,PSM6XBZX,host_transcriptomics,Ileum,nonIBD,Ileum
+P6016,PSM6XBZY,host_transcriptomics,Ileum,CD,Ileum
+P6017,PSM6XC11,host_transcriptomics,Ileum,nonIBD,Ileum
+P6018,PSM6XC13,host_transcriptomics,Ileum,nonIBD,Ileum
+P6024,PSM7J4EV,host_transcriptomics,Ileum,CD,Ileum
+P6025,PSM7J4EX,host_transcriptomics,Ileum,UC,Ileum
+P6028,PSM7J4F4,host_transcriptomics,Ileum,CD,Ileum
+C3023,CSM5FZ3A,host_transcriptomics,Terminal ileum,CD,Ileum
+C3030,CSMDRVXP,host_transcriptomics,Terminal ileum,CD,Ileum
+C3035,CSMDRVY4,host_transcriptomics,Terminal ileum,CD,Ileum
+C3002,CSM5FZ1I,host_transcriptomics,Rectum,CD,Rectum
+C3003,CSM5FZ1K,host_transcriptomics,Rectum,UC,Rectum
+C3004,CSM5FZ1N,host_transcriptomics,Rectum,UC,Rectum
+C3005,CSM5FZ1R,host_transcriptomics,Rectum,UC,Rectum
+C3006,CSM5FZ1U,host_transcriptomics,Rectum,UC,Rectum
+C3008,CSM5FZ24,host_transcriptomics,Rectum,CD,Rectum
+C3010,CSM5FZ28,host_transcriptomics,Rectum,CD,Rectum
+C3011,CSM5FZ2B,host_transcriptomics,Rectum,UC,Rectum
+C3012,CSM5FZ2E,host_transcriptomics,Rectum,CD,Rectum
+C3013,CSM5FZ2H,host_transcriptomics,Rectum,UC,Rectum
+C3015,CSM5FZ2M,host_transcriptomics,Rectum,UC,Rectum
+C3016,CSM5FZ2P,host_transcriptomics,Rectum,CD,Rectum
+C3017,CSM5FZ2S,host_transcriptomics,Rectum,CD,Rectum
+C3021,CSM5FZ35,host_transcriptomics,Rectum,CD,Rectum
+C3022,CSM5FZ39,host_transcriptomics,Rectum,nonIBD,Rectum
+C3023,CSM5FZ3C,host_transcriptomics,Rectum,CD,Rectum
+C3027,CSMDRVXG,host_transcriptomics,Rectum,CD,Rectum
+C3028,CSMDRVXJ,host_transcriptomics,Rectum,CD,Rectum
+C3029,CSMDRVXM,host_transcriptomics,Rectum,UC,Rectum
+C3030,CSMDRVXR,host_transcriptomics,Rectum,CD,Rectum
+C3031,CSMDRVXU,host_transcriptomics,Rectum,CD,Rectum
+C3032,CSMDTZ4Y,host_transcriptomics,Rectum,UC,Rectum
+C3034,CSMDRVY1,host_transcriptomics,Rectum,UC,Rectum
+C3035,CSMDRVY3,host_transcriptomics,Rectum,CD,Rectum
+C3037,CSMDRVY6,host_transcriptomics,Rectum,UC,Rectum
+E5004,ESM5GEYL,host_transcriptomics,Rectum,UC,Rectum
+E5009,ESM5GEYA,host_transcriptomics,Rectum,CD,Rectum
+E5013,ESM5GEY7,host_transcriptomics,Rectum,CD,Rectum
+H4001,HSM5FZAE,host_transcriptomics,Rectum,CD,Rectum
+H4004,HSM5FZAN,host_transcriptomics,Rectum,CD,Rectum
+H4004,HSM7H3WS,host_transcriptomics,Rectum,CD,Rectum
+H4006,HSM5FZAR,host_transcriptomics,Rectum,CD,Rectum
+H4007,HSM5FZBG,host_transcriptomics,Rectum,CD,Rectum
+H4007,HSM6S4GC,host_transcriptomics,Rectum,CD,Rectum
+H4008,HSM5FZBH,host_transcriptomics,Rectum,nonIBD,Rectum
+H4008,HSM6S4GN,host_transcriptomics,Rectum,nonIBD,Rectum
+H4009,HSM5FZBD,host_transcriptomics,Rectum,nonIBD,Rectum
+H4010,HSM5FZBB,host_transcriptomics,Rectum,UC,Rectum
+H4013,HSM5FZB5,host_transcriptomics,Rectum,nonIBD,Rectum
+H4014,HSM5FZB2,host_transcriptomics,Rectum,CD,Rectum
+H4015,HSM5FZAZ,host_transcriptomics,Rectum,CD,Rectum
+H4016,HSM5FZAV,host_transcriptomics,Rectum,nonIBD,Rectum
+H4017,HSM5FZAS,host_transcriptomics,Rectum,CD,Rectum
+H4018,HSM6S4FP,host_transcriptomics,Rectum,nonIBD,Rectum
+H4019,HSM6S4FS,host_transcriptomics,Rectum,UC,Rectum
+H4019,HSM6S4GQ,host_transcriptomics,Rectum,UC,Rectum
+H4020,HSM6S4FU,host_transcriptomics,Rectum,CD,Rectum
+H4022,HSM6S4G1,host_transcriptomics,Rectum,nonIBD,Rectum
+H4023,HSM6S4G4,host_transcriptomics,Rectum,nonIBD,Rectum
+H4024,HSM6S4G7,host_transcriptomics,Rectum,nonIBD,Rectum
+H4027,HSM6S4GI,host_transcriptomics,Rectum,UC,Rectum
+H4028,HSM6S4GL,host_transcriptomics,Rectum,CD,Rectum
+H4030,HSM7H3WH,host_transcriptomics,Rectum,CD,Rectum
+H4031,HSM7H3WL,host_transcriptomics,Rectum,CD,Rectum
+H4032,HSM7H3WP,host_transcriptomics,Rectum,CD,Rectum
+H4035,HSM7H3WY,host_transcriptomics,Rectum,UC,Rectum
+H4038,HSM9JBU,host_transcriptomics,Rectum,CD,Rectum
+H4039,HSM9JTBX,host_transcriptomics,Rectum,CD,Rectum
+H4040,HSM9JTC3,host_transcriptomics,Rectum,UC,Rectum
+H4042,HSM9JTC8,host_transcriptomics,Rectum,UC,Rectum
+H4043,HSM9UBMP,host_transcriptomics,Rectum,CD,Rectum
+H4044,HSM9UBMQ,host_transcriptomics,Rectum,UC,Rectum
+H4045,HSM9UBMU,host_transcriptomics,Rectum,nonIBD,Rectum
+M2008,MSM5CFCU,host_transcriptomics,Rectum,CD,Rectum
+M2008,MSM5LWKD,host_transcriptomics,Rectum,CD,Rectum
+M2008,MSM5LWJZ,host_transcriptomics,Rectum,CD,Rectum
+M2014,MSM5CFD7,host_transcriptomics,Rectum,CD,Rectum
+M2021,MSM5LWKW,host_transcriptomics,Rectum,CD,Rectum
+M2021,MSM5LWKX,host_transcriptomics,Rectum,CD,Rectum
+M2025,MSM5LWL4,host_transcriptomics,Rectum,CD,Rectum
+M2026,MSM5LWL1,host_transcriptomics,Rectum,UC,Rectum
+M2027,MSM5LWL7,host_transcriptomics,Rectum,CD,Rectum
+M2028,MSM5LWJ4,host_transcriptomics,Rectum,CD,Rectum
+M2028,MSM719N5,host_transcriptomics,Rectum,CD,Rectum
+M2034,MSM5LWJH,host_transcriptomics,Rectum,CD,Rectum
+M2039,MSM5LWJO,host_transcriptomics,Rectum,nonIBD,Rectum
+M2041,MSM5LWJS,host_transcriptomics,Rectum,nonIBD,Rectum
+M2042,MSM5LWJU,host_transcriptomics,Rectum,nonIBD,Rectum
+M2047,MSM719M6,host_transcriptomics,Rectum,nonIBD,Rectum
+M2060,MSM5LWKF,host_transcriptomics,Rectum,nonIBD,Rectum
+M2061,MSM719MA,host_transcriptomics,Rectum,nonIBD,Rectum
+M2064,MSM719ME,host_transcriptomics,Rectum,UC,Rectum
+M2064,MSMAKNES,host_transcriptomics,Rectum,UC,Rectum
+M2068,MSM719MS,host_transcriptomics,Rectum,CD,Rectum
+M2069,MSM719MZ,host_transcriptomics,Rectum,UC,Rectum
+M2072,MSM719MR,host_transcriptomics,Rectum,nonIBD,Rectum
+M2075,MSM719NA,host_transcriptomics,Rectum,nonIBD,Rectum
+M2084,MSM719NO,host_transcriptomics,Rectum,nonIBD,Rectum
+P6005,PSM6XBZC,host_transcriptomics,Rectum,CD,Rectum
+P6009,PSM6XBZI,host_transcriptomics,Rectum,CD,Rectum
+P6012,PSM6XBZO,host_transcriptomics,Rectum,UC,Rectum
+P6013,PSM6XBZQ,host_transcriptomics,Rectum,UC,Rectum
+P6014,PSM6XBZW,host_transcriptomics,Rectum,nonIBD,Rectum
+P6016,PSM6XBZZ,host_transcriptomics,Rectum,CD,Rectum
+P6016,PSM7J4FL,host_transcriptomics,Rectum,CD,Rectum
+P6017,PSM6XC12,host_transcriptomics,Rectum,nonIBD,Rectum
+P6018,PSM6XC14,host_transcriptomics,Rectum,nonIBD,Rectum
+P6024,PSM7J4EU,host_transcriptomics,Rectum,CD,Rectum
+P6025,PSM7J4EW,host_transcriptomics,Rectum,UC,Rectum
+P6028,PSM7J4F3,host_transcriptomics,Rectum,CD,Rectum
